@@ -1,1 +1,2 @@
 Purchase - ID: 1, Quantity: 23
+Sale - ID: 3, Quantity: 23
