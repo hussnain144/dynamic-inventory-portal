@@ -73,6 +73,7 @@ The system uses dynamic memory allocation to handle inventory items and file han
 Dynamic-Inventory-Portal/
 │
 ├── assets/
+
 │   ├── welcome-screen.png
 │   ├── main-menu.png
 │   ├── add-item.png
