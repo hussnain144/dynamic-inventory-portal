@@ -70,10 +70,14 @@ The system uses dynamic memory allocation to handle inventory items and file han
 
 ---
 
+# 📦 Dynamic Inventory Portal
+
+## 📂 Project Structure
+
+```text
 Dynamic-Inventory-Portal/
 │
 ├── assets/
-
 │   ├── welcome-screen.png
 │   ├── main-menu.png
 │   ├── add-item.png
@@ -90,7 +94,7 @@ Dynamic-Inventory-Portal/
 ├── inventory.txt
 ├── transactions.txt
 └── README.md
-
+```
 ## Learning Outcomes
 
 This project demonstrates practical implementation of:
